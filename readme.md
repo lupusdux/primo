@@ -11,20 +11,14 @@
 
 You need to run all this commands below to make it happen:
 
+  - git init;
   - git clone URL_OF_THE_REPOSITORY;
   - composer install;
   - php artisan key:generate;
-  - php artisan serve
+  - php artisan serve.
 
 If this not work, observe the permissions of the files.
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
